@@ -1,6 +1,6 @@
 # time2hike
 
-A small but expandable project, deisgned to aggregate data from an area given by the user such as hiking trails, 
+A small but expandable project, designed to aggregate data from an area given by the user such as hiking trails, 
 the general difficult of those trails and weather information-pertaining to UV index and potential flooding of the trails.
 
 Features as the core components become implemented will range from 
